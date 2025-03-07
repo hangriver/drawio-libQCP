@@ -1,0 +1,86 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"12/Supplementary\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "辅助文案"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"13/Content-s\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "正文-小"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"14/Content-m\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "正文-中"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"14/Content-l\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "正文-大"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"16/Title-s\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "标题-小"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"20/Title-m\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "标题-中"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"24/Title-l\" style=\"text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "标题-大"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"36/Emphasis-s\" style=\"text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "运营标题-小"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"48/Emphasis-s\" style=\"text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "运营标题-中"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"56/Emphasis-s\" style=\"text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=56;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"380\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 380,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "运营标题-大"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;h1 style=&amp;quot;margin-top: 0px; font-size: 20px;&amp;quot;&amp;gt;&amp;lt;font style=&amp;quot;font-size: 20px; font-weight: normal;&amp;quot;&amp;gt;Normal Phase&amp;lt;/font&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Donec sed odio operae, eu vulputate felis rhoncus. Salutantibus vitae elit libero, a pharetra augue. Nihil hic munitissimus habendi senatus locus, nihil horum? A communi observantia non est recedendum.&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"746\" height=\"90\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 746,
+    "h": 90,
+    "aspect": "fixed",
+    "title": "普通段落"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;h1 style=&amp;quot;margin-top: 0px; font-size: 20px;&amp;quot;&amp;gt;Emphasized Phase&amp;lt;/h1&amp;gt;&amp;lt;p style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size: 14px;&amp;quot;&amp;gt;Lorem ipsum dolor sit amet, &amp;lt;b&amp;gt;consectetur adipisici&amp;lt;/b&amp;gt; elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Donec sed odio operae, eu vulputate felis rhoncus. Salutantibus &amp;lt;b&amp;gt;vitae elit libero&amp;lt;/b&amp;gt;, a pharetra augue. Nihil hic munitissimus habendi senatus locus, nihil horum? A communi observantia non est recedendum.&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"746\" height=\"90\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 746,
+    "h": 90,
+    "aspect": "fixed",
+    "title": "带强调段落"
+  }
+]</mxlibrary>
